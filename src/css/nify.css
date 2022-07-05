@@ -1,0 +1,17 @@
+.decoration h7 li{
+    list-style-type: none;
+}
+.decoration{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 4;
+    text-align: center;
+
+} 
+.decoration .h{
+    columns: 100px 3;
+}
+.color{
+    background-color: #E1EFFF;
+    margin-top: -1%;
+}
